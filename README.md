@@ -1,2 +1,2 @@
 # HealthyBody
-Food and Fitness traxker
+Food and Fitness tracker
